@@ -8,7 +8,7 @@
 
 **HTML** · **CSS** · **JavaScript** · **MediaPipe Hands**
 
-[Try the Demo](#try-the-demo) · [How It Works](#how-it-works) · [Gestures](#supported-gestures) · [Team](#team)
+[▶ Launch Live Demo](https://yaraaz5.github.io/gesture-based-web-hand-tracking/) · [How It Works](#how-it-works) · [Gestures](#supported-gestures) · [Team](#team)
 
 </div>
 
@@ -43,11 +43,11 @@ The demo also shows gesture labels, detection counts, and an effect log.
 
 ## Try the demo
 
-The source for the interactive demo is in **[index.html](index.html)**.
+**[▶ Open the Live Hand Tracking Demo](https://yaraaz5.github.io/gesture-based-web-hand-tracking/)** · [View the HTML source](index.html)
 
 To run it, open the demo from a **secure origin (HTTPS)** or use a local development server such as `http://localhost`; click **Start Camera** and allow webcam access. An internet connection is needed to load MediaPipe and fonts from their CDNs.
 
-**GitHub Pages:** The demo is a static HTML/JavaScript page suitable for GitHub Pages; publishing and testing a live Pages URL is a separate step. Camera permission and browser compatibility are required.
+**GitHub Pages:** The Pages deployment has completed successfully. Camera permission and browser compatibility are required; actual gesture recognition should be tested in the visitor's browser.
 
 ## Technology stack
 
@@ -67,7 +67,7 @@ To run it, open the demo from a **secure origin (HTTPS)** or use a local develop
 
 ## Presentation
 
-The team also prepared a 10-slide presentation on definitions, hand-tracking workflow, real-world applications, the relevant tools, and the live demonstration. The public version removes student ID numbers and will be linked here once uploaded to the repository.
+📄 **[View the 10-slide Project Presentation (PDF)](Section69235_Group2_GesturedBasedWebHandTracking%20.pdf)** — covers the hand-tracking workflow, applications, tools, and demo. The uploaded presentation should be checked for student IDs before sharing externally.
 
 ## Team
 
